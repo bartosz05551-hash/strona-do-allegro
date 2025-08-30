@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>Żart</title>
+</head>
+<body>
+    <p>Kliknij tutaj jak na Allegro:
+        <a href="http://localhost:8080">Kliknij tutaj!</a>
+    </p>
+</body>
+</html>
